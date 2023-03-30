@@ -23,9 +23,22 @@ class WhoAmI {
     
     skills(){
       const mySkills = {
-        code: [Javascript, Typescript, HTML, CSS, Python],
-        tools: [React, Redux, ReactNative, Styled-Components, Jest],
-        architecture: ["dynamic-data-driven", "design system pattern", "mobile-first-approach],
+        code: [
+            'Javascript',
+            'Typescript',
+            'HTML',
+            'CSS',
+            'Python'
+        ],
+        tools: [ 
+            'React', 
+            'Redux',
+            'ReactNative',
+            'Styled-Components',
+            'Jest',
+            'testing-library'
+        ],
+        architecture: ['dynamic-data-driven', 'design system pattern', 'mobile-first-approach'],
         techCommunities: {
           organiser: "Brogrammers",
           member: ["UI Community", "Silligong Valley"],
