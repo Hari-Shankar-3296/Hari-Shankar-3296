@@ -9,10 +9,10 @@
 
 class WhoAmI {
     constructor(){
-        this.name = "Harishankar Devaraj";
-        this.role = "Senior Frontend Developer";
-        this.previousEmployer = "/thoughtworks";
-        this.languageSpoken = ["ta_IN", "en_US"];
+        this.name = 'Harishankar Devaraj';
+        this.role = 'Senior Frontend Developer';
+        this.previousEmployer = '/thoughtworks';
+        this.languageSpoken = ['ta_IN', 'en_US'];
         this.native = "India 🇮🇳"
         this.livesIn = "Australia 🇦🇺"
     }
@@ -24,24 +24,24 @@ class WhoAmI {
     skills(){
       const mySkills = {
         code: [
-            'Javascript',
-            'Typescript',
-            'HTML',
-            'CSS',
-            'Python'
+            Javascript,
+            Typescript,
+            HTML,
+            CSS,
+            Python
         ],
         tools: [ 
-            'React', 
-            'Redux',
-            'ReactNative',
-            'Styled-Components',
-            'Jest',
-            'testing-library'
+            React, 
+            Redux,
+            ReactNative,
+            Styled-Components,
+            Jest,
+            testing-library
         ],
         architecture: ['dynamic-data-driven', 'design system pattern', 'mobile-first-approach'],
         techCommunities: {
-          organiser: "Brogrammers",
-          member: ["UI Community", "Silligong Valley"],
+          organiser: 'Brogrammers',
+          member: ['UI Community', 'Silligong Valley'],
         },
         funChallenge: "I am doing the #CSSBattles challenge focused on CSS Fun"
       };
