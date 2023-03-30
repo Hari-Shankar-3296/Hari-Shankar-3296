@@ -43,7 +43,9 @@ class WhoAmI {
           organiser: 'Brogrammers',
           member: ['UI Community', 'Silligong Valley'],
         },
-        funChallenge: "I am doing the #CSSBattles challenge focused on CSS Fun"
+        funChallenge: "I am doing the #CSSBattles challenge focused on CSS Fun",
+        newPortfolio: "Under Construction",
+        oldPortfolio: https://harimessi619.wixsite.com/who-am-i
       };
       
       return mySkills;
