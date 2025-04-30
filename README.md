@@ -11,7 +11,7 @@ class WhoAmI {
     constructor(){
         this.name = 'Harishankar Devaraj';
         this.role = 'Senior Frontend Developer';
-        this.previousEmployer = '/thoughtworks';
+        this.previousEmployer = 'R2P Group - Ex - Thoughtworks';
         this.languageSpoken = ['ta_IN', 'en_US'];
         this.native = "India 🇮🇳"
         this.livesIn = "Australia 🇦🇺"
@@ -31,16 +31,20 @@ class WhoAmI {
             Python
         ],
         tools: [ 
-            React, 
+            React,
+            Vue2/Vue3,
             Redux,
+            Pinia,
             ReactNative,
             Styled-Components,
+            TailwindCSS,
+            Bootstrap,
             Jest,
             testing-library
         ],
-        architecture: ['dynamic-data-driven', 'design system pattern', 'mobile-first-approach'],
+        architecture: ['dynamic-data-driven', 'design system pattern', 'mobile-first-approach', 'test-driven-development', 'extreme-programming(XP)'],
         techCommunities: {
-          organiser: 'Brogrammers',
+          organiser: 'Brogrammers - Under Construction',
           member: ['UI Community', 'Silligong Valley'],
         },
         funChallenge: "I am doing the #CSSBattles challenge focused on CSS Fun",
